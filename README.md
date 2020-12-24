@@ -1,2 +1,2 @@
-# Employee_Attrition_Analysis
+# Employee Attrition Analysis
 Final project on MTAIDA
